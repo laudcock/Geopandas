@@ -2,4 +2,4 @@
 
 Geoprogramming course
 
-[![Binder](https://notebooks.gesis.org/user/laudcock.decock@ugent.be/tree)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/laudcock/Geopandas/main)
